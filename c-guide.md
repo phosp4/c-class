@@ -1,7 +1,5 @@
 # C Programming Guide
 
-This is a short guide on some useful things you can do in C, which I prepared for my final open book exam.
-
 ## Pointers
 
 These four lines do the same thing, dereferencing a pointer:
